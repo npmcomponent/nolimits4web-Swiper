@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [nolimits4web/swiper](http://github.com/nolimits4web/swiper). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/nolimits4web-swiper`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Swiper - Mobile touch slider with hardware accelerated transitions
 
 ## About
